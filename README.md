@@ -3,13 +3,13 @@ Base single-spa setup
 
 # Getting started
 
-**1. Clone the repo
+**1. Clone the repo**
 
 ```
 git clone https://github.com/MelvinMcMonagle/microfrontend-single-spa.git
 ```
 
-**2. Install dependencies 
+**2. Install dependencies**
 
 ```
 yarn
@@ -25,7 +25,7 @@ react -> npm install single-spa single-spa-vue vue
 
 ```
 
-**3. Add your applications
+**3. Add your applications**
 
 ```
 <html>
@@ -42,6 +42,6 @@ react -> npm install single-spa single-spa-vue vue
 
 # Hands on 
 
-**1 Run 3 coexist vue applications and navigate them over a navbar
+**1 Run 3 coexist vue applications and navigate them over a navbar**
 
-**2 Integrate an existing React App into your SingleSpaApplication
+**2 Integrate an existing React App into your SingleSpaApplication**
