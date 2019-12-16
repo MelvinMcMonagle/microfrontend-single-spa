@@ -47,5 +47,6 @@ react -> npm install single-spa single-spa-vue vue
 **2)  Integrate an existing React App into your SingleSpaApplication**
     
     ```
-    git clone 
+    git clone git@github.com:MelvinMcMonagle/react-basic-setup.git
+    
     ```
