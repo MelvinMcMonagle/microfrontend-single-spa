@@ -42,6 +42,10 @@ react -> npm install single-spa single-spa-vue vue
 
 # Hands on 
 
-**1 Run 3 coexist vue applications and navigate them over a navbar**
+**1)  Run 3 coexist vue applications and navigate them over a navbar**
 
-**2 Integrate an existing React App into your SingleSpaApplication**
+**2)  Integrate an existing React App into your SingleSpaApplication**
+    
+    ```
+    git clone 
+    ```
